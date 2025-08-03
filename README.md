@@ -11,3 +11,6 @@ Na primeira etapa, o objetivo foi implementar três operações essenciais: dep�
 
 ### Segunda Etapa
 Nesta etapa, o objetivo foi aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Também foram criadas outras funções: criar usuário, criar conta e listar contas. 
+
+### Terceira Etapa
+Nesta etapa, o objetivo foi atualizar a implementação do sistema bancário para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários.

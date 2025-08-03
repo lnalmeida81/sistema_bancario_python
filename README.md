@@ -9,4 +9,5 @@ Foi uma oportunidade para aprimorar habilidades de programação em Python e com
 ### Primeira Etapa
 Na primeira etapa, o objetivo foi implementar três operações essenciais: depósito, saque e extrato.
 
-### (em elaboração)
+### Segunda Etapa
+Nesta etapa, o objetivo foi aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Também foram criadas outras funções: criar usuário, criar conta e listar contas. 
